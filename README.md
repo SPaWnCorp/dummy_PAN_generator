@@ -1,5 +1,5 @@
 # Test Credit Card numbers generator program.
-Use this program to generate dummy credit card number to testing.
+Use this program to generate dummy credit card number for testing.
 
 # Description:
 Currently numbers for six card brands can be generated in four different output formats. Use proper command line arguments for desired branded cards. Cards are generated in a text file in the same direcotry where the EXE file is stored. 
